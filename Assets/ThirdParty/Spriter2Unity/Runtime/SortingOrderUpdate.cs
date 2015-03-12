@@ -12,7 +12,7 @@ namespace Spriter2Unity.Runtime
 
         private void Start()
         {
-            cachedRenderer = renderer;
+            cachedRenderer = GetComponent<Renderer>();
             if (!cachedRenderer)
             {
                 Destroy(this);
