@@ -26,15 +26,17 @@ Important missing features:
 
 ##Usage
 
-Copy the contents of the Assets folder into your Unity project's Assets folder or import the package from [here] (https://github.com/bonus2113/Spriter2Unity/raw/master/Package/Spriter2Unity.unitypackage).
+Copy the contents of the Assets folder into your Unity project's Assets folder or import the package from [here] (https://github.com/Dharengo/Spriter2Unity/raw/master/Package/Spriter2Unity.unitypackage).
 Any SCML files copied into the project will be automatically processed. Prefabs are created in the same folder as the SCML file.
 
 
 Detailed:
-  1. Download this Unity package: https://github.com/bonus2113/Spriter2Unity/raw/master/Package/Spriter2Unity.unitypackage
+  1. Download this Unity package: https://github.com/Dharengo/Spriter2Unity/raw/master/Package/Spriter2Unity.unitypackage
   2. Open your Unity project.
   3. Import your whole Spriter project folder into Unity.
   4. With Unity open, go to the folder you saved the Unity package to and double click it.
   5. Unity should pop up with a dialog asking if you want to import the assets, click import on the bottom right.
+
+NOTE: Unity 4 users should use this one: https://github.com/bonus2113/Spriter2Unity/raw/master/Package/Spriter2Unity.unitypackage
 
 Unity should now import the Spriter2Unity package and then automatically convert your SCML files to prefabs. The prefabs will be in the same folder as the SCML files.
